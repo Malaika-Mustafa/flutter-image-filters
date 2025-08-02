@@ -64,7 +64,7 @@ FilterSnap is a simple Flutter application that allows users to:
 ```
 lib/
 ├── main.dart
-└── pick_image_screen.dart  # Your main UI logic
+└── pick_image_screen.dart  
 ```
 
 ---
