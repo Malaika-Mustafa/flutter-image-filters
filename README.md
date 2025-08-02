@@ -42,7 +42,7 @@ FilterSnap is a simple Flutter application that allows users to:
 1. Clone the repository:
 
    ```bash
-   git clone <repo-url>
+   git clone "https://github.com/Malaika-Mustafa/flutter-image-filters.git"
    cd project_folder
    ```
 
